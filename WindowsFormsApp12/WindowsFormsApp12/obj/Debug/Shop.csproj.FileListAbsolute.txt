@@ -1,0 +1,14 @@
+C:\Users\Abas_vy93\source\repos\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.exe.config
+C:\Users\Abas_vy93\source\repos\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.exe
+C:\Users\Abas_vy93\source\repos\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.pdb
+C:\Users\Abas_vy93\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\Shop.csprojAssemblyReference.cache
+C:\Users\Abas_vy93\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Properties.Resources.resources
+C:\Users\Abas_vy93\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\Shop.Views.ShopForm.resources
+C:\Users\Abas_vy93\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\Shop.csproj.GenerateResource.cache
+C:\Users\Abas_vy93\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\Shop.csproj.CoreCompileInputs.cache
+C:\Users\Abas_vy93\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.exe
+C:\Users\Abas_vy93\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.pdb
+C:\Users\Abas_vy93\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\Shop.Views.ProductForm.resources
+C:\Users\Abas_vy93\source\repos\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\Autofac.dll
+C:\Users\Abas_vy93\source\repos\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\Autofac.xml
+C:\Users\Abas_vy93\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\Shop.csproj.CopyComplete
